@@ -2,8 +2,7 @@ import streamlit as st
 import numpy as np
 from PIL import Image
 from pathlib import Path
-#from tensorflow.keras.models import load_model
-from tf_keras.models import load_model
+from tensorflow.keras.models import load_model
 import time
 
 # ──────────────────────────────────────────────
